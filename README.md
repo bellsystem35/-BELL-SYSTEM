@@ -13,6 +13,7 @@
 
 [![Website](https://img.shields.io/badge/Website-bellsystem35.com-0f766e?style=for-the-badge)](https://bellsystem35.com/)
 [![WordPress](https://img.shields.io/badge/WordPress-bellsystem35-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://bellsystem35.wordpress.com/)
+[![Service Page](https://img.shields.io/badge/Service%20Page-Drain%20Cleaning%20Sharjah-d8b24e?style=for-the-badge)](https://bellsystem35.com/%d8%aa%d8%b3%d9%84%d9%8a%d9%83-%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d8%b1%d9%8a-%d8%a8%d8%a7%d9%84%d8%b6%d8%ba%d8%b7/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact%20BELL%20SYSTEM-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/971528913062)
 [![Email](https://img.shields.io/badge/Email-bellsystem35%40gmail.com-d93025?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bellsystem35@gmail.com)
 
@@ -27,6 +28,18 @@
 > **تسليك مجاري في الشارقة**
 
 ويشمل المشروع نماذج صفحات، هياكل HTML، تنسيقات CSS، أقسام تحويل عالية، Schema Markup، وتحسينات SEO محلية تساعد على بناء صفحات قوية لمحركات البحث وتجربة المستخدم.
+
+---
+
+## 🔗 الصفحة المنشورة للخدمة
+
+الصفحة المنشورة الأساسية المرتبطة بهذا المشروع:
+
+| الصفحة | الرابط |
+|---|---|
+| تسليك المجاري بالضغط | [زيارة صفحة الخدمة](https://bellsystem35.com/%d8%aa%d8%b3%d9%84%d9%8a%d9%83-%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d8%b1%d9%8a-%d8%a8%d8%a7%d9%84%d8%b6%d8%ba%d8%b7/) |
+
+هذه الصفحة تمثل نقطة الربط العملية بين أكواد هذا المستودع وصفحة الخدمة الحقيقية على موقع **BELL SYSTEM**.
 
 ---
 
@@ -119,6 +132,7 @@
 معالجة روائح المجاري في الشارقة
 طوارئ صرف صحي الشارقة
 خدمات الصرف الصحي في الشارقة
+تسليك المجاري بالضغط
 BELL SYSTEM Sharjah
 Drain Cleaning Sharjah
 Sewage Services Sharjah
@@ -248,6 +262,7 @@ Google Ads Landing Page
 | العنصر | الرابط |
 |---|---|
 | الموقع الرسمي | [bellsystem35.com](https://bellsystem35.com/) |
+| صفحة تسليك المجاري بالضغط | [زيارة صفحة الخدمة](https://bellsystem35.com/%d8%aa%d8%b3%d9%84%d9%8a%d9%83-%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d8%b1%d9%8a-%d8%a8%d8%a7%d9%84%d8%b6%d8%ba%d8%b7/) |
 | موقع WordPress | [bellsystem35.wordpress.com](https://bellsystem35.wordpress.com/) |
 | واتساب | [Contact BELL SYSTEM](https://wa.me/971528913062) |
 | البريد الإلكتروني | [bellsystem35@gmail.com](mailto:bellsystem35@gmail.com) |
